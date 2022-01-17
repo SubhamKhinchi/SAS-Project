@@ -2,7 +2,7 @@
 
 
 ## How to run this your project on your machine?
-### Fork this repository and download this project as a .zip fil and unzip in your local machine
+### Fork this repository and download this project as a .zip file and unzip on your local machine
 
 ### upload this folder in your SAS Studio environment.
 ##### If you don't have SAS Studio Account. Create one using this [link](https://welcome.oda.sas.com/login)
